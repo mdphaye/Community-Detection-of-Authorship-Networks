@@ -91,17 +91,3 @@ Contributions are welcome! Please submit issues or pull requests for improvement
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Citation
-
-If you use this framework in your research, please consider citing the repository:
-
-```
-Phaye, M. (2025). Community Detection of Authorship Networks: A Comparative Study and Visualization Framework. GitHub Repository. https://github.com/mdphaye/Community-Detection-of-Authorship-Networks
-```
-
-## Contact
-
-For questions or inquiries, please open an issue or contact the repository maintainer.
-
----
